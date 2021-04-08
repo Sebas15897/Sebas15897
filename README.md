@@ -1,5 +1,4 @@
-### Hi there, I'm Sebastián
+### Hi there, I'm Sebastián 🤖
+Hi, I'm Sebastián Andres Contreras, I'm currently a student at holbertonSchoolColombia, I love programming since I was a child, I really like playing video games, I like to learn new things all the time, I like to learn about the universe. 🤯
 
-[twitter]: https://twitter.com/archbold_julian
-[instagram]: https://instagram.com/julian0510
-[linkedin]: https://www.linkedin.com/in/julian-archbold-52a6718a/
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Sebas15897=anuraghazra&theme=dark&show_icons=true)
