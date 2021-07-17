@@ -12,10 +12,17 @@ Hi, I'm Sebastián Andres Contreras, I'm currently a student at holbertonSchoolC
 - Study 🕵‍♀
 - To walk 🚶‍♂
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ¡My technologies!
+- JS.
+- CSS.
+- HTML.
+- SQL.
+- PYTHON.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebas15897&theme=dark&show_icons=true)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [twitter]: https://twitter.com/Sebasssssss7
 [instagram]: https://www.instagram.com/sbc7._/
-[linkedin]: https://www.linkedin.com/in/sebastian-contreras-5581161b7/
+[linkedin]: https://www.linkedin.com/in/sebasti%C3%A1n-contreras15897/
