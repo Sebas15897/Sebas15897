@@ -27,3 +27,10 @@ Hi, I'm Sebastián Andres Contreras, I'm currently a student at holbertonSchoolC
 [twitter]: https://twitter.com/Sebasssssss7
 [instagram]: https://www.instagram.com/sbc7._/
 [linkedin]: https://www.linkedin.com/in/sebasti%C3%A1n-contreras15897/
+
+### Connect with me:
+[<img align="left" alt="Sebastián_c | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sebastián_c | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sebastián_c | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+✉ Sebastiancontreras15897@gmail.com
