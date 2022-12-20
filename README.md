@@ -2,7 +2,7 @@
 - Angular Lover!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ¡A little bit about me!
-Hi, I'm Sebastián Andres Contreras, I'm currently a student at holbertonSchoolColombia, I love programming since I was a child, I really like playing video games, I like to learn new things all the time, I like to learn about the universe. 🤯
+Hi, I'm Sebastián Andres Contreras, I love programming since I was a child, I really like playing video games, I like to learn new things all the time, I like to learn about the universe. 🤯
 - Playing video games 🎮 
 - Study 🕵‍♀
 - To walk 🚶‍♂
