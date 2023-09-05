@@ -1,9 +1,6 @@
 ### Hi there, I'm Sebastián 👨‍💻
 - Angular Lover!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Soy un experimentado desarrollador de Angular con una amplia trayectoria en el dominio del framework y sus diversas herramientas, como RxJS, NGXS y Material Angular. Además, he liderado proyectos de desarrollo de aplicaciones híbridas utilizando Ionic y Angular. Mi pasión por este framework es innegable, y mi objetivo profesional es seguir creciendo y exprimiendo al máximo todas las posibilidades que ofrece. Estoy comprometido con el continuo aprendizaje y la excelencia en el desarrollo de aplicaciones con Angular.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ¡My technologies!
 - JS.
 - CSS.
@@ -17,6 +14,8 @@
 - GIT.
 - NGXS.
 - Laravel.
+- Ionic
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebas15897&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
