@@ -1,11 +1,7 @@
 ### Hi there, I'm Sebastián 👨‍💻
 - Angular Lover!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ¡A little bit about me!
-Hi, I'm Sebastián Andres Contreras, I love programming since I was a child, I really like playing video games, I like to learn new things all the time, I like to learn about the universe. 🤯
-- Playing video games 🎮 
-- Study 🕵‍♀
-- To walk 🚶‍♂
+### Soy un experimentado desarrollador de Angular con una amplia trayectoria en el dominio del framework y sus diversas herramientas, como RxJS, NGXS y Material Angular. Además, he liderado proyectos de desarrollo de aplicaciones híbridas utilizando Ionic y Angular. Mi pasión por este framework es innegable, y mi objetivo profesional es seguir creciendo y exprimiendo al máximo todas las posibilidades que ofrece. Estoy comprometido con el continuo aprendizaje y la excelencia en el desarrollo de aplicaciones con Angular.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ¡My technologies!
