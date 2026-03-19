@@ -1,20 +1,10 @@
-### Hi there, I'm Sebastián 👨‍💻
-- Angular Lover!
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ¡My technologies!
-- JS.
-- CSS.
-- HTML.
-- SQL.
-- PYTHON.
-- ANGULAR.
-- TYPESCRIPT.
-- REDUX.
-- RXJS.
-- GIT.
-- NGXS.
-- Laravel.
-- Ionic
+Senior Frontend / Full-Stack Engineer con más de 5 años de experiencia
+construyendo aplicaciones web escalables utilizando Angular, React, TypeScript y
+Node.js. Especializado en arquitectura frontend, micro-frontends y desarrollo de APIs
+REST para plataformas de alto tráfico. Experiencia liderando equipos técnicos,
+diseñando soluciones end-to-end y aplicando buenas prácticas de testing, CI/CD,
+seguridad y optimización de performance para garantizar aplicaciones robustas y
+mantenibles.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebas15897&theme=dark&show_icons=true)
